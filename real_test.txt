@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 branch 1 : modify 1
+=======
+
+
+
+branch 3 modify 2
+branch 3 modify 3
+branch 3 modify 4
+>>>>>>> 3
